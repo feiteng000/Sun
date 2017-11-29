@@ -34,13 +34,13 @@ nav div{
 }
 .money{
     background-size: 30%;
-    background-image: url("images/money.png");
+    background-image: url("money.png");
     background-position: 50% 35%;
     background-repeat: no-repeat;
 }
 .voucher{
     background-size: 40%;
-    background-image: url("images/voucher.png");
+    background-image: url("voucher.png");
     background-position: 50% 35%;
     background-repeat: no-repeat;
 }
@@ -48,7 +48,7 @@ nav div{
 article{
     width: 100%;
     height: 25rem;
-    background-image: url("images/loveBackgroundCenter.png");
+    background-image: url("loveBackgroundCenter.png");
     background-size: 100%;
     position: relative;
 }
@@ -100,13 +100,13 @@ section{
 }
 .help{
     background-size: 25%;
-    background-image: url("images/help.png");
+    background-image: url("help.png");
     background-position: 50% 35%;
     background-repeat: no-repeat;
 }
 .join{
     background-size: 25%;
-    background-image: url("images/join.png");
+    background-image: url("join.png");
     background-position: 50% 35%;
     background-repeat: no-repeat;
 }
@@ -126,7 +126,7 @@ footer{
     width: 100%;
     height: 35rem;
     border-radius: 0.5rem;
-    background-image: url("images/helpPeopleShow.jpeg");
+    background-image: url("helpPeopleShow.jpeg");
     background-size: 100%;
     margin: 0 auto;
 }
